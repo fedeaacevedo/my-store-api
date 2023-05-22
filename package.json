@@ -15,7 +15,9 @@
     "eslint": "^8.40.0",
     "eslint-config-prettier": "^8.8.0",
     "eslint-plugin-prettier": "^4.2.1",
+    "install": "^0.13.0",
     "nodemon": "^2.0.22",
+    "npm": "^9.6.7",
     "prettier": "^2.8.8"
   },
   "dependencies": {
